@@ -1,2 +1,5 @@
 # readme
-ReadMe file.
+Welcome to my GitHub profile!
+
+
+Greetings Earthlings👾
